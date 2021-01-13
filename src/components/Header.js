@@ -31,7 +31,7 @@ function Header() {
         </div>
 
         <div className="header__middle">
-            <input placeholder='Bismillah...' type="text"/>
+            <input placeholder='Enter message...' type="text"/>
             <ArrowDropDownIcon className='header__inputCaret' />
         </div>
 
